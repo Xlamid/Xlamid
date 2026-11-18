@@ -1,10 +1,10 @@
 # Egor
 ### Egor - Java Backend Developer
 
-Backend engineer with 3 years of experience building high-load B2B telemetry and video analytics platforms (8,000+ connected
-devices, 500+ rps, 15+ binary/text TCP protocols).
-
-Focused on **streaming data pipelines**, **PostgreSQL performance tuning**, and **resilient network services**.
+Java Backend Developer with 3 years of experience building high-load B2B platforms (8,000+ connected devices). Handle the full
+development cycle: from requirements refinement to database optimization, CI/CD setup, and production releases. Equally
+effective launching services from scratch to MVP solo and collaborating in a team via code reviews and onboarding. Passionate
+about System Design and AI-assisted development
 
 #### Highlights
 - **Kafka + PostgreSQL:** increased geo-data ingestion 5× (`300 → 1,500 msg/s`) via MyBatis batching and table partitioning.
